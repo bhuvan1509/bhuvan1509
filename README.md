@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/bhuvanrajutuniki111/**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1gW2SC4xdYwg0oLJyRBndiA1pRTFuheq8/view?usp=drive_link](https://drive.google.com/file/d/1gW2SC4xdYwg0oLJyRBndiA1pRTFuheq8/view?usp=drive_link)
+- 📄 To view my CV: [https://drive.google.com/file/d/1gW2SC4xdYwg0oLJyRBndiA1pRTFuheq8/view?usp=drive_link](https://drive.google.com/file/d/1gW2SC4xdYwg0oLJyRBndiA1pRTFuheq8/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
