@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Power Bi analysis**
 
-- 👨‍💻 All of my projects are available at [https://github.com/bhuvan1509](https://github.com/bhuvan1509)
+- 👨‍💻 All of my projects are available at [this page](ttps://github.com/bhuvan1509/bhuvan1509/blob/main/My%20Projects)
 
 - 💬 Ask me about **data analysis, visualization, NLP, Speech analysis.**
 
