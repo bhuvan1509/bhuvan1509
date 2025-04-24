@@ -11,7 +11,7 @@
 
   [Resume](https://drive.google.com/file/d/1gW2SC4xdYwg0oLJyRBndiA1pRTFuheq8/view?usp=drive_link)
   
-  Projects List:
+  My Projects List:
   1. [Sentiment Analysis](https://github.com/bhuvan1509/Speech-emotion-detention-)
   2. [CUSTOMER-ORDER-MANAGEMENT-SYSTEM](https://github.com/bhuvan1509/CUSTOMER-ORDER-MANAGEMENT-SYSTEM)
   3. [SUPPLY-CHAIN---SQL](https://github.com/bhuvan1509/SUPPLY-CHAIN---SQL)
