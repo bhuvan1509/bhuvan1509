@@ -9,7 +9,7 @@
 
 
 
-  [Resume](https://drive.google.com/file/d/1gW2SC4xdYwg0oLJyRBndiA1pRTFuheq8/view?usp=drive_link)
+  [Click to view my Resume](https://drive.google.com/file/d/1gW2SC4xdYwg0oLJyRBndiA1pRTFuheq8/view?usp=drive_link)
   
   My Projects List:
   1. [Sentiment Analysis](https://github.com/bhuvan1509/Speech-emotion-detention-)
