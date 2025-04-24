@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bhuvan Raju Tuniki</h1>
 <h3 align="center">Power BI Data Analyst (Fresher- Actively looking for openings)</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bhuvan1509&label=Profile%20views&color=0e75b6&style=flat" alt="bhuvan1509" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhuvan1509" alt="bhuvan1509" /></a> </p>
 
 - 🔭 I’m currently working on **AI Usecases analysis**
 
