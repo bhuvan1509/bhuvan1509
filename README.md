@@ -9,11 +9,19 @@
 
 - 👯 I’m looking to collaborate on **Power Bi analysis**
 
-- 👨‍💻 All of my projects are available at [this page](ttps://github.com/bhuvan1509/bhuvan1509/blob/main/My%20Projects)
 
 - 💬 Ask me about **data analysis, visualization, NLP, Speech analysis.**
 
 - 📄 To view my CV: [https://drive.google.com/file/d/1gW2SC4xdYwg0oLJyRBndiA1pRTFuheq8/view?usp=drive_link](https://drive.google.com/file/d/1gW2SC4xdYwg0oLJyRBndiA1pRTFuheq8/view?usp=drive_link)
+
+- - My Projects List:
+  
+  1. [Sentiment Analysis](https://github.com/bhuvan1509/Speech-emotion-detention-)
+  2. [CUSTOMER-ORDER-MANAGEMENT-SYSTEM](https://github.com/bhuvan1509/CUSTOMER-ORDER-MANAGEMENT-SYSTEM)
+  3. [SUPPLY-CHAIN---SQL](https://github.com/bhuvan1509/SUPPLY-CHAIN---SQL)
+  4. [HR ANALYTICS DASHBOARD](https://github.com/bhuvan1509/Power-Bi/blob/main/HR%20ANALYTICS%20DASHBOARD.pdf)
+  5. [SUPER STORE REPORT](https://github.com/bhuvan1509/Power-Bi/blob/main/SUPER%20STORE%20REPORT%202.pdf)
+  6. [Zomato dashboard](https://github.com/bhuvan1509/Power-Bi/blob/main/Zomato%20dashboard.pbix)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
