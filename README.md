@@ -3,9 +3,7 @@
 
 
 
-- 🔭 I’m currently working on **AI Usecases analysis**
-
-- 🌱 I’m currently learning **ML frameworks for deep analysis**
+- 🔭 I’m currently working on **AI Usecases analysis and ML frameworks for deep analysis**
 
 - 👯 I’m looking to collaborate on **Power Bi analysis**
 
