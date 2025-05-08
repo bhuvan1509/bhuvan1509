@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Bhuvan Raju Tuniki</h1>
+<h1 align="center">Hi 👋, I'm Bhuvan Raju Thuniki</h1>
 <h3 align="center">Power BI Data Analyst (Fresher- Actively looking for openings)</h3>
 
 
