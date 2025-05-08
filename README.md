@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **data analysis, visualization, NLP - Speech analysis.**
 
-- 📄 To view my CV: [https://drive.google.com/file/d/1gW2SC4xdYwg0oLJyRBndiA1pRTFuheq8/view?usp=drive_link](https://drive.google.com/file/d/1gW2SC4xdYwg0oLJyRBndiA1pRTFuheq8/view?usp=drive_link)
+- 📄 To view my CV: [https://drive.google.com/file/d/1LxusGlVtif1aXRLkZQlZ9AZQM_wrweS1/view?usp=sharing]
 
 - - My Projects List:
   
