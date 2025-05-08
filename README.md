@@ -8,7 +8,7 @@
 - 👯 I’m looking to collaborate on **Power Bi analysis**
 
 
-- 💬 Ask me about **data analysis, visualization, NLP, Speech analysis.**
+- 💬 Ask me about **data analysis, visualization, NLP - Speech analysis.**
 
 - 📄 To view my CV: [https://drive.google.com/file/d/1gW2SC4xdYwg0oLJyRBndiA1pRTFuheq8/view?usp=drive_link](https://drive.google.com/file/d/1gW2SC4xdYwg0oLJyRBndiA1pRTFuheq8/view?usp=drive_link)
 
