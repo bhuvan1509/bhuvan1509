@@ -16,8 +16,7 @@
 
 - - My Projects List:
   
-  1.[SmartVoyager](https://github.com/bhuvan1509/SmartVoyager-Empowering-Trips-with-Intelligent-Insights)
-  
+  1. [SmartVoyager](https://github.com/bhuvan1509/SmartVoyager-Empowering-Trips-with-Intelligent-Insights)  
   2. [Sentiment Analysis](https://github.com/bhuvan1509/Speech-emotion-detention-)
   3. [CUSTOMER-ORDER-MANAGEMENT-SYSTEM](https://github.com/bhuvan1509/CUSTOMER-ORDER-MANAGEMENT-SYSTEM)
   4. [SUPPLY-CHAIN---SQL](https://github.com/bhuvan1509/SUPPLY-CHAIN---SQL)
