@@ -16,13 +16,12 @@
 
 - - My Projects List:
   
-  1. [SmartVoyager](https://github.com/bhuvan1509/SmartVoyager-Empowering-Trips-with-Intelligent-Insights)  
-  2. [Sentiment Analysis](https://github.com/bhuvan1509/Speech-emotion-detention-)
-  3. [CUSTOMER-ORDER-MANAGEMENT-SYSTEM](https://github.com/bhuvan1509/CUSTOMER-ORDER-MANAGEMENT-SYSTEM)
-  4. [SUPPLY-CHAIN---SQL](https://github.com/bhuvan1509/SUPPLY-CHAIN---SQL)
-  5. [HR ANALYTICS DASHBOARD](https://github.com/bhuvan1509/Power-Bi/blob/main/HR%20ANALYTICS%20DASHBOARD.pdf)
-  6. [SUPER STORE REPORT](https://github.com/bhuvan1509/Power-Bi/blob/main/SUPER%20STORE%20REPORT%202.pdf)
-  7. [Zomato dashboard](https://github.com/bhuvan1509/Power-Bi/blob/main/Zomato%20dashboard.pbix)
+  1. [SmartVoyager](https://github.com/bhuvan1509/SmartVoyager-Empowering-Trips-with-Intelligent-Insights)  - Using Power BI
+  2. [Sentiment Analysis](https://github.com/bhuvan1509/Speech-emotion-detention-) - Using Python and ML models
+  3. [CUSTOMER-ORDER-MANAGEMENT-SYSTEM](https://github.com/bhuvan1509/CUSTOMER-ORDER-MANAGEMENT-SYSTEM) - Using SQL
+  4. [SUPPLY-CHAIN---SQL](https://github.com/bhuvan1509/SUPPLY-CHAIN---SQL) - Using SQL
+  5. [SUPER STORE REPORT](https://github.com/bhuvan1509/Power-Bi/blob/main/SUPER%20STORE%20REPORT%202.pdf) - Using Power BI
+  6. [Zomato dashboard](https://github.com/bhuvan1509/Power-Bi/blob/main/Zomato%20dashboard.pbix) _ Using Power BI and Excel
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
