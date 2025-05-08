@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **AI Usecases analysis and ML frameworks for deep analysis**
 
-- 👯 I’m looking to collaborate on **Power Bi analysis**
+- 👯 I’m looking to collaborate on **Power BI Analysis**
 
 
 - 💬 Ask me about **data analysis, visualization, NLP - Speech analysis.**
